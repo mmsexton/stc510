@@ -1,5 +1,10 @@
 Script started on Sun Jan 29 14:19:08 2023
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Mistis-MacBook-Pro.local/Users/mistighee[0m[27m[24m[J(base) mistighee@Mistis-MacBook-Pro ~ % [K[?2004hbbash[?2004l
+Misti Sexton Module 2
+[1m[7m%[27m[1m[0m                                                                               
+ 
+]7;file://Mistis-MacBook-Pro.local/Users/mistighee
+[0m[27m[24m[J(base) mistighee@Mistis-MacBook-Pro ~ % [K[?2004hbbash[?2004l
+
 
 The default interactive shell is now zsh.
 To update your account to use zsh, please run `chsh -s /bin/zsh`.
@@ -48,9 +53,17 @@ bash-3.2$ head educationtext.txt
 199.192.67.ihd,2017-06-27,13:15:16,0.0,1364742.0,0000215457-17-003221,tal.education.group..txt,200.0,11588.0,0.0,0.0,0.0,10.0,0.0,
 bash-3.2$ exit
 exit
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Mistis-MacBook-Pro.local/Users/mistighee[0m[27m[24m[J(base) mistighee@Mistis-MacBook-Pro ~ % [K[?2004hsscript exit[?2004l
+[1m[7m%[27m[1m[0m                                                                               
+ 
+]7;file://Mistis-MacBook-Pro.local/Users/mistighee
+[0m[27m[24m[J(base) mistighee@Mistis-MacBook-Pro ~ % [K[?2004hsscript exit[?2004l
+
 Script started, output file is exit
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Mistis-MacBook-Pro.local/Users/mistighee[0m[27m[24m[J(base) mistighee@Mistis-MacBook-Pro ~ % [K[?2004heexit[?2004l
+[1m[7m%[27m[1m[0m                                                                               
+ 
+]7;file://Mistis-MacBook-Pro.local/Users/mistighee
+[0m[27m[24m[J(base) mistighee@Mistis-MacBook-Pro ~ % [K[?2004heexit[?2004l
+
 
 Saving session...
 ...copying shared history...
@@ -58,4 +71,7 @@ Saving session...
 ...completed.
 
 Script done, output file is exit
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Mistis-MacBook-Pro.local/Users/mistighee[0m[27m[24m[J(base) mistighee@Mistis-MacBook-Pro ~ % [K[?2004h
+[1m[7m%[27m[1m[0m                                                                               
+ 
+]7;file://Mistis-MacBook-Pro.local/Users/mistighee
+[0m[27m[24m[J(base) mistighee@Mistis-MacBook-Pro ~ % [K[?2004h
